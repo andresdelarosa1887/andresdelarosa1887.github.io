@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Etiquetas
 type: tags
 # All the Tags of posts.
 # v2.0

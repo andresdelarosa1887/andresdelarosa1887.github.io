@@ -1,9 +1,10 @@
 ---
-title: Writing a New Post
-author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+title: Proyectos Sociales
+author: Andrés de la Rosa
+date: 2020-09-04 11:33:00 +0800
+categories: [Sociedad Dominicana]
+tags: [sectores productivos, género, objetivos de desarrollo sostenible, evaluación de políticas]
+image: /assets/img/navi_visit2.jpeg
 ---
 
 ## Naming and Path
