@@ -3,7 +3,7 @@ title: Análisis Económico
 author: Andrés de la Rosa
 categories: [Shinny App, Economic and Social Indicators]
 tags: [fmi]
-toc: false
+toc: true
 ---
 
 En esta sección se comparten artículos, proyectos y herramientas enfocadas en el análisis económico local (República Dominicana) e internacional. 
