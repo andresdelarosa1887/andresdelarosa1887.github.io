@@ -1,17 +1,23 @@
 ---
 title: Proyectos Financieros
 author: Andrés de la Rosa
-categories: [R Programming, Portfolio Optimization]
-tags: [Yahoo Finance API]
+date: 2020-09-04 14:10:00 +0800
+categories: [R Programming, Shinny App, Portfolio Optimization]
+tags: [yahoo finance api, portfolioanalytics]
 pin: true
 ---
 
-En esta sección se presentan dos proyectos utilizando el lenguaje de programación R y los datos en tiempo real tomados de la API Yahoo Finance provista por [RapidApi](https://rapidapi.com/apidojo/api/yahoo-finance1) Los paquetes utilizados de R para el análisis financiero incluye a PortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant. La visualización interactiva se desarrolló en [Shiny](https://shiny.rstudio.com/) y los scripts interactivos se comparten en GoogleColab. 
 
 ## Stock Screener Customizado (Shiny App)
+los datos en tiempo real tomados de la API Yahoo Finance provista por [RapidApi](https://rapidapi.com/apidojo/api/yahoo-finance1)
+
+Los paquetes utilizados de R para el análisis financiero incluye a PortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant. La visualización interactiva se desarrolló en [Shiny](https://shiny.rstudio.com/)
+
 <img src="/assets/img/ProyectosFinancieros2.png?raw=true"/>
 
 ## Optimización de Portafolio- Rebalanceo Trimestral- Large Tech Stocks
+los scripts interactivos se comparten en GoogleColab. 
+
 <img src="/assets/img/ProyectosFinancieros12.png?raw=true"/>
 
 
