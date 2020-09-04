@@ -1,11 +1,18 @@
 ---
-title: Getting Started
-author: Cotes Chung
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+title: Proyectos Financieros
+author: Andrés de la Rosa
+categories: [R Programming, Portfolio Optimization]
+tags: [Yahoo Finance API]
 pin: true
 ---
+
+En esta sección se presentan dos proyectos utilizando el lenguaje de programación R y los datos en tiempo real tomados de la API Yahoo Finance provista por [RapidApi](https://rapidapi.com/apidojo/api/yahoo-finance1) Los paquetes utilizados de R para el análisis financiero incluye a PortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant. La visualización interactiva se desarrolló en [Shiny](https://shiny.rstudio.com/) y los scripts interactivos se comparten en GoogleColab. 
+
+## Stock Screener Customizado (Shiny App)
+<img src="/assets/img/ProyectosFinancieros12.png?raw=true"/>
+
+## Optimización de Portafolio- Rebalanceo Trimestral- Large Tech Stocks
+<img src="/assets/img/ProyectosFinancieros12.png?raw=true"/>
 
 
 ## Installation
