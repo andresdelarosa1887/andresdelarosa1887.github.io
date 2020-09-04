@@ -2,7 +2,7 @@
 title: Análisis Económico
 author: Andrés de la Rosa
 categories: [R Programming, Shinny App, Economic and Social Indicators]
-tags: [Fondo Monetario Internacional]
+tags: [fmi]
 toc: false
 ---
 
