@@ -1,7 +1,7 @@
 ---
 title: Análisis Económico
 author: Andrés de la Rosa
-categories: [Shinny App, Economic and Social Indicators]
+categories: [shinny-app, Economic and Social Indicators]
 tags: [fmi]
 toc: false
 ---
