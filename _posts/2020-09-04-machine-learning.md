@@ -1,8 +1,8 @@
 ---
 title: Webinarios y Conferencias
 author: Andrés de la Rosa
-date: 2019-08-08 11:33:00 +0800
-categories: [Big Data, Compras Públicas]
+date: 2020-09-04 11:33:00 +0800
+categories: [Machine Learning, Compras Públicas]
 tags: [webinars]
 math: true
 image: /assets/img/sample/devices-mockup.png
