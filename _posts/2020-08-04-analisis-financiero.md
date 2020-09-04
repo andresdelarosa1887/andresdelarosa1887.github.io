@@ -8,7 +8,7 @@ pin: true
 ---
 
 
-## Stock Screener Customizado (Shiny App)
+## [Stock Screener Customizado (Shiny App)](/2020-09-03-subcategory.md)
 En este Stock Screener se presentan los  datos en tiempo real tomados de la API Yahoo Finance provista por [RapidApi](https://rapidapi.com/apidojo/api/yahoo-finance1). Los paquetes utilizados de R para el análisis financiero y técnico incluyePortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant. Las visualizaciones interactivas se desarrollaron en [Shiny](https://shiny.rstudio.com/)
 
 <img src="/assets/img/ProyectosFinancieros2.png?raw=true"/>
