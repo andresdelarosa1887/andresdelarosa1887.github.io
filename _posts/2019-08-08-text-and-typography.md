@@ -2,8 +2,8 @@
 title: Webinarios y Conferencias
 author: Andrés de la Rosa
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [Big Data, Compras Públicas]
+tags: [webinars]
 math: true
 image: /assets/img/sample/devices-mockup.png
 ---
