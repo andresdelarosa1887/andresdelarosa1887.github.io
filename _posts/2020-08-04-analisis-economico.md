@@ -3,6 +3,7 @@ title: Análisis Económico
 author: Andrés de la Rosa
 categories: [Shinny App, Economic and Social Indicators]
 tags: [fmi]
+image: /assets/img/proyectos_economicos/analisis_rwanda.jpg
 toc: true
 ---
 
