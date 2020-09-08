@@ -15,6 +15,10 @@ image: /assets/img/webinarios_y_conferencias/imagen_profesional56.jpg
 
 {% include youtubePlayer.html id="7kvdxkusXRg" %}
 
+## Entrevista Canal 4- El Portal Transaccional Democratiza las Compras Públicas
+
+{% include youtubePlayer.html id="dpxqUIBocGk" %}
+
 ## Transparencia y Gestión: Entrevista a Investigadores de la Universidad de Berkeley y Equipo de Datos de la Dirección General de Contrataciones Públicas
 
 {% include youtubePlayer.html id="Y_VNpB53dVA" %}
