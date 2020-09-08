@@ -11,11 +11,11 @@ image: /assets/img/webinarios_y_conferencias/imagen_profesional56.jpg
 
 {% include youtubePlayer.html id="53h0Ad_ZE68" %}
 
-# El Uso de los Datos en las Contrataciones Públicas
+# El Uso de los Datos en las Contrataciones Públicas - Webinar- Instituto Tecnológico de Santo Domingo INTEC
 
 {% include youtubePlayer.html id="7kvdxkusXRg" %}
 
-# Entrevista Canal 4- El Portal Transaccional Democratiza las Compras Públicas
+# Entrevista Canal 4- El Portal Transaccional Democratiza las Compras Públicas- Programa Ojalá
 
 {% include youtubePlayer.html id="dpxqUIBocGk" %}
 

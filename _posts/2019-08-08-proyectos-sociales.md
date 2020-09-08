@@ -12,3 +12,6 @@ En esta propuesta, nuestro equipo AgroIntegra decidió apostar a la deshidrataci
 
 {% include youtubePlayer.html id="Chh5uR0zjd8" %}
 
+# Global Gender Summit Kigali 2019 : Promoting the participation of Women in Public Procurement- Dominican Republic Experience 
+
+{% include youtubePlayer.html id="MyfwXY4arms" %}
