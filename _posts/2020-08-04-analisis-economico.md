@@ -20,8 +20,13 @@ La herramienta permite la comparación interactiva de los indicadores entre los 
 <img src="/assets/img/proyectos_economicos/WorldEconomicOutlook.png?raw=true"/> 
 
 # ¿Cuánto Compra el Estado Dominicano Diariamente?
-
 En este visualizador desarrollado en R (Shiny), se presentan los datos de las adquisiciones públicas del gobierno dominicano por modalidad de compra.
 
 Con las proyecciones del algoritmo de Facebook Prophet (integrado en el visualizador) podemos proyectar con diferentes periodicidades y escalas cuánto estará comprando el estado en días determinados. Los datos utilizados en este visualizador se comparten en el [portal de datos abiertos de la Dirección General de Contrataciones Públicas](https://www.dgcp.gob.do/datos-abiertos/tablas/) y pueden ser reutilizados por cualquier interesado. 
 
+
+# ¿Cuál es el Comportamiento de las Entidades Estatales que Transan por el Sistema Nacional de Compras y Contrataciones Públicas?
+
+En este visualizador desarrollado en R (Shiny), se presentan los datos de las adquisiciones públicas del gobierno dominicano por entidad estatal, aquí se podra realizar análisis de distribución de contratos, clusterización de unidades de compra. Que permitirá a la sociedad civil monitorear los procesos de compras y contrataciones de una manera efectiva y resumida. 
+
+Los datos utilizados en este visualizador se comparten en el [portal de datos abiertos de la Dirección General de Contrataciones Públicas](https://www.dgcp.gob.do/datos-abiertos/tablas/) y pueden ser reutilizados por cualquier interesado. 
