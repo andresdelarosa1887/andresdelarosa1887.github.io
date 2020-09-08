@@ -10,5 +10,5 @@ image: /assets/img/proyectos_sociales/navi_visit2.jpeg
 
 En esta propuesta, nuestro equipo AgroIntegra decidió apostar a la deshidratación solar para ayudar a los productores de tomate de Constanza, localidad rural de la República Dominicana a agregar valor a su producto final y satisfacer la demanda del quinto quintil del Distrito Nacional. 
 
-{% include youtubePlayer.html id="R9DnsRfhjd8" %}
+{% include youtubePlayer.html id="Chh5uR0zjd8" %}
 
