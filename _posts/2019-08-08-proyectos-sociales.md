@@ -14,4 +14,6 @@ En esta propuesta, nuestro equipo AgroIntegra decidió apostar a la deshidrataci
 
 # Global Gender Summit Kigali 2019 : Promoting the participation of Women in Public Procurement- Dominican Republic Experience 
 
+The Global Gender Summit is a biennial event organised by Multilateral Development Banks (MDBs), bringing leaders from government, development institutions, private sector, civil society and academia together.
+
 {% include youtubePlayer.html id="MyfwXY4arms" %}
