@@ -1,10 +1,12 @@
 ---
 title: Análisis Económico
 author: Andrés de la Rosa
+date: 2020-09-08 14:10:00 +0800
 categories: [Shinny App, Economic and Social Indicators]
 tags: [fmi, Compras Públicas]
 image: /assets/img/proyectos_economicos/analisis_rwanda.jpg
 toc: true
+pin: true
 ---
 
 En esta sección se comparten artículos, proyectos y herramientas enfocadas en el análisis económico local (República Dominicana) e internacional. 
