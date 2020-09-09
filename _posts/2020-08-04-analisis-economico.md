@@ -24,6 +24,9 @@ En este visualizador desarrollado en R (Shiny), se presentan los datos de las ad
 
 Con las proyecciones del algoritmo de Facebook Prophet (integrado en el visualizador) podemos proyectar con diferentes periodicidades y escalas cuánto estará comprando el estado en días determinados. Los datos utilizados en este visualizador se comparten en el [portal de datos abiertos de la Dirección General de Contrataciones Públicas](https://www.dgcp.gob.do/datos-abiertos/tablas/) y pueden ser reutilizados por cualquier interesado. 
 
+Acceder a la herramienta [aquí](https://andres-de-la-rosa.shinyapps.io/ProyeccionesComprasPublicas/)
+
+<img src="/assets/img/proyectos_economicos/SistemadeProyeccionesCompras.png?raw=true"/> 
 
 # ¿Cuál es el Comportamiento de las Entidades Estatales que Transan por el Sistema Nacional de Compras y Contrataciones Públicas?
 
