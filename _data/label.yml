@@ -16,4 +16,4 @@ post:
     next: Recientes
     previous: Anteriores
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Buscar..."   # text show on search bar
