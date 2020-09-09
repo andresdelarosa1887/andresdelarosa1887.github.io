@@ -33,3 +33,7 @@ Acceder a la herramienta [aquí](https://andres-de-la-rosa.shinyapps.io/Proyecci
 En este visualizador desarrollado en R (Shiny), se presentan los datos de las adquisiciones públicas del gobierno dominicano por entidad estatal, aquí se podra realizar análisis de distribución de contratos, clusterización de unidades de compra. Que permitirá a la sociedad civil monitorear los procesos de compras y contrataciones de una manera efectiva y resumida. 
 
 Los datos utilizados en este visualizador se comparten en el [portal de datos abiertos de la Dirección General de Contrataciones Públicas](https://www.dgcp.gob.do/datos-abiertos/tablas/) y pueden ser reutilizados por cualquier interesado. 
+
+Acceder a la herramienta [aquí](https://andres-de-la-rosa.shinyapps.io/ComportamientoInstitucionesPublicasSNCCP/?_ga=2.50123942.1276148544.1599664777-1185190043.1589987390)
+
+<img src="/assets/img/proyectos_economicos/AnalisiUC.png?raw=true"/> 
