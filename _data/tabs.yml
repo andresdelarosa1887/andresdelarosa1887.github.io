@@ -6,25 +6,25 @@
 
 
 -
-  name: Home
+  name: Inicio
   icon: "fas fa-home"
 -
-  name: Categories
+  name: "Categorias"
   icon: "fas fa-stream"
   path: tabs
   url: categories
 -
-  name: "Tags"
+  name: "Etiquetas"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Archivos"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Acerca de"
   icon: "fas fa-info"
   path: tabs
   url: about
