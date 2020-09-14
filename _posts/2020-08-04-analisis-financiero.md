@@ -14,7 +14,9 @@ En este Stock Screener se presentan los  datos en tiempo real tomados de la API 
 <img src="/assets/img/proyectos_financieros/ProyectosFinancieros2.png?raw=true"/>
 
 ## Optimización de Portafolio- Rebalanceo Trimestral- Large Tech Stocks
-En este tutorial evaluaremos como utilizar el paquete tidyquant para recibir series de tiempo. Crear varios portafolios usando empresas de tecnología y comparar sus resultados de acuerdo a diferentes objetivos de optimización. Los scripts interactivos se comparten en GoogleColab. Los paquetes utilizados de R para el análisis financiero y técnico incluyePortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant.
+En este (tutorial)[https://colab.research.google.com/drive/1YpOxkUqQVz27eg7XOQH4VzbbJ61kKRGj?usp=sharing] evaluaremos como utilizar el paquete tidyquant para recibir series de tiempo. El objetivos de este tutorial es crear varios portafolios usando empresas de tecnología y comparar sus resultados de acuerdo a diferentes objetivos de optimización.
+
+Los scripts interactivos se comparten en GoogleColab. Los paquetes utilizados de R para el análisis financiero y técnico incluyePortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant.
 
 <img src="/assets/img/proyectos_financieros/ProyectosFinancieros12.png?raw=true"/>
 
