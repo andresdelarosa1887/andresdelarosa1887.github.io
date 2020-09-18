@@ -18,7 +18,7 @@ En este (tutorial)[https://colab.research.google.com/drive/1YpOxkUqQVz27eg7XOQH4
 
 Los scripts interactivos se comparten en GoogleColab. Los paquetes utilizados de R para el análisis financiero y técnico incluyePortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant.
 
-<img src="/assets/img/proyectos_financieros/LargetechPortfolio.png?raw=true"/>
+
 <img src="/assets/img/proyectos_financieros/pesos.png?raw=true"/>
 
 
