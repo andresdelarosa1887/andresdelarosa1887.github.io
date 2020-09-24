@@ -7,6 +7,7 @@ tags: [webinars, r-programming]
 image: /assets/img/webinarios_y_conferencias/imagen_profesional56.jpg
 ---
 
+
 # Estrategias para la Explotación de Datos en las Compras Públicas- Red Interamericana de las Compras Gubernamentales 2019 
 
 {% include youtubePlayer.html id="53h0Ad_ZE68" %}
@@ -14,6 +15,10 @@ image: /assets/img/webinarios_y_conferencias/imagen_profesional56.jpg
 # El Uso de los Datos en las Contrataciones Públicas - Webinar- Instituto Tecnológico de Santo Domingo INTEC
 
 {% include youtubePlayer.html id="7kvdxkusXRg" %}
+
+# Aprovechamiento de Datos e Innovación Pública Digital Como Catalizador de los Objetivos de Desarrollo Sostenible 
+
+{% include youtubePlayer.html id="8EvngLPmRR8" %}
 
 # Entrevista Canal 4- El Portal Transaccional Democratiza las Compras Públicas- Programa Ojalá
 
