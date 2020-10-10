@@ -19,6 +19,8 @@ Es decir, el mercado estaba completamente oculto y no se transparentaba si quier
 
 A partir del 2012, esta práctica se hace menos común como se puede ver en el gráfico.
 
+<img src="/assets/img/Introduccion-al-mercado-publico/adjudicados_vs_publicitados5.gif"/>
+
 
 En este punto de inflexión, se adicionaron nuevas funcionalidades e integraciones al submódulo del SIGEF, que sirvieron para mejorar y organizar la información que se capturaba, como el marcador de género y de MIPYMES. Que luego sirvieron para diseñar políticas públicas basadas en evidencia.
 
