@@ -4,7 +4,6 @@ author: Andrés de la Rosa
 date: 2020-09-07 14:10:00 +0800
 categories: [Shinny App, Portfolio Optimization]
 tags: [yahoo finance api, portfolioanalytics, Rprogramming]
-pin: true
 ---
 
 

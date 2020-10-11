@@ -4,7 +4,6 @@ author: Andrés de la Rosa
 date: 2020-09-04 11:33:00 +0800
 categories: [Sociedad Dominicana]
 tags: [sectores productivos, género, objetivos de desarrollo sostenible, evaluación de políticas]
-pin: true
 image: /assets/img/proyectos_sociales/navi_visit2.jpeg
 ---
 # Proyecto Ganador-  Shaping Agro 2020: Mitigación del Impacto del COVID-19 en la Alimentación y la Agricultura Dominicana
