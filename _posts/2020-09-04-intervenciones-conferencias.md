@@ -4,6 +4,7 @@ author: Andrés de la Rosa
 date: 2020-09-04 11:33:00 +0800
 categories: [Presentaciones, Compras Públicas]
 tags: [webinars, r-programming]
+pin: true
 image: /assets/img/webinarios_y_conferencias/imagen_profesional56.jpg
 ---
 
