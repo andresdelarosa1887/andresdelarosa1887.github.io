@@ -39,11 +39,11 @@ This graph is a good visualization because it gives us an idea about how most th
 
 In matters of birth rates, it is fascinating and somewhat relieving that the number of births has a decreasing tendency over the years in the DR and every country of Latin American and it's even more interesting that approximately 60% of births in the nation are a c-section.
 
-<img src="/assets/img/desire-to-migrate/income_vs_birth_rate.gif"/>{: width="240" class="left"}
+<img src="/assets/img/desire-to-migrate/income_vs_birth_rate.gif" {: width="500" class="left"}/> 
 
 However, it's preoccupying that teenage girls do a significant part of births that occur in the country. The data indicates that as of 2013 22% of girls between 12–19 years have been pregnant.
 
-<img src="/assets/img/desire-to-migrate/births_mother.gif"/>{: width="240" class="right"}
+<img src="/assets/img/desire-to-migrate/births_mother.gif" {: width="500" class="right"}/>
 
 This rate is 34% higher than the Latin American average (16,6%), which is one of the highest in the world, compared to Africa (14.3%) and the world (9.6%).
 
