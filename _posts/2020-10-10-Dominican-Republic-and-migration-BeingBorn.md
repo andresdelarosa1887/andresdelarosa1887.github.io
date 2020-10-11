@@ -38,14 +38,11 @@ The map above represents the side of Hispaniola Island where the Dominican Repub
 This graph is a good visualization because it gives us an idea about how most things are distributed in the nation. Most births occur in the National District (The big dot on the south), an overpopulated city that holds over 2 million citizens (1/3 of the entire population).
 
 In matters of birth rates, it is fascinating and somewhat relieving that the number of births has a decreasing tendency over the years in the DR and every country of Latin American and it's even more interesting that approximately 60% of births in the nation are a c-section.
-
-<img src="/assets/img/desire-to-migrate/income_vs_birth_rate.gif" {: width="500" class="left"}/> 
+![Desktop View](/assets/img/desire-to-migrate/income_vs_birth_rate.gif){: width="500" class="right"}
 
 However, it's preoccupying that teenage girls do a significant part of births that occur in the country. The data indicates that as of 2013 22% of girls between 12–19 years have been pregnant.
 
- ![Desktop View](/assets/img/desire-to-migrate/births_mother.gif){: width="240" class="right"}
-
-
+![Desktop View](/assets/img/desire-to-migrate/births_mother.gif){: width="500" class="right"}
 This rate is 34% higher than the Latin American average (16,6%), which is one of the highest in the world, compared to Africa (14.3%) and the world (9.6%).
 
 Knowing this one may ask, what conditions in their environment are making these girls pregnant at such an early age. Is it sexual education?
