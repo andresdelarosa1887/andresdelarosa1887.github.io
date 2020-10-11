@@ -55,7 +55,7 @@ More than 85% of them are born in a public hospital.
 
 <img src="/assets/img/desire-to-migrate/RobertReidPic.jpg"/>
 
-People wait in front of the Robert Reid Cabral Children's Hospital in Santo Domingo, the Dominican Republic on October 13, 2014 (AFP Photo/Erika Santelices). Taken from: https://www.yahoo.com/news/dom-republic-health-minister-axed-11-child-deaths-225911294.html
+People wait in front of the Robert Reid Cabral Children's Hospital in Santo Domingo, the Dominican Republic on October 13, 2014 [(AFP Photo/Erika Santelices).](https://www.yahoo.com/news/dom-republic-health-minister-axed-11-child-deaths-225911294.html)
 
 
 A child that is born in these conditions, if he survives, is likely to have immunological deficiencies, problems regarding physical and psychological development and a significant propensity to contract diseases.
