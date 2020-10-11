@@ -12,6 +12,7 @@ Most people that live in a developing country have interacted with a relative or
 Every time you try to convince them with sentiments of nationalism, altruism, projections of opportunities, the answer is the same: I don't earn enough to sustain my family, the taxes that the government charges me are too high compared to the public services that I receive or use, politicians are too corrupt, I have a cousin abroad that is doing well and sustaining his whole family in the country.
 
 According to a Gallup poll between 2013 and 2016, 50% of adults in the Dominican Republic wanted to get out of the country. 
+
 <img src="/assets/img/desire-to-migrate/desire_to_emigrate.gif"/>
 
 This result may not be a surprise to most Dominicans or foreigners, but given the recent improvement in some key indicators, including economic, poverty, education and health in the past decade, one may expect a decrease in this metric.
