@@ -15,7 +15,7 @@ In this article, we are going to take a look at what are the challenges to be bo
 
 The Dominican Republic (48,442 km2) is located in the middle of the Caribbean. It's the 2nd largest country in the Greater Antilles, has a population of 10 million citizens, and shares the Hispaniola Island with Haiti, the most impoverished nation in the western hemisphere.
 
-<img src="/assets/img/desire-to-migrate/gdp_growth.gif"/>
+![Desktop View](/assets/img/desire-to-migrate/gdp_growth.gif){: width="500" class="left"}
 
 For the last 4 years (2014- 2018), its economy measured in terms of real GDP has been growing at an average rate of 6.44%, and it's projected to expand at a 5.28% rate in the next five years (2019–2023), which makes it one of the fastest-growing economies in Latin America and the Caribbean.
 
@@ -31,18 +31,20 @@ Between 2010 and 2017 the Dominican HDI grew at an average annual rate of 0.66%.
 
 Each year, since 2010, on average 158,314 children are born.
 
-<img src="/assets/img/desire-to-migrate/births_by_province2.gif"/>
+![Desktop View](/assets/img/desire-to-migrate/births_by_province2.gif){: width="500" class="right"}
 
 The map above represents the side of Hispaniola Island where the Dominican Republic is located. Each point represents the number of births in each province of the country, given the year.
 
 This graph is a good visualization because it gives us an idea about how most things are distributed in the nation. Most births occur in the National District (The big dot on the south), an overpopulated city that holds over 2 million citizens (1/3 of the entire population).
 
 In matters of birth rates, it is fascinating and somewhat relieving that the number of births has a decreasing tendency over the years in the DR and every country of Latin American and it's even more interesting that approximately 60% of births in the nation are a c-section.
+
 ![Desktop View](/assets/img/desire-to-migrate/income_vs_birth_rate.gif){: width="500" class="right"}
 
 However, it's preoccupying that teenage girls do a significant part of births that occur in the country. The data indicates that as of 2013 22% of girls between 12–19 years have been pregnant.
 
 ![Desktop View](/assets/img/desire-to-migrate/births_mother.gif){: width="500" class="right"}
+
 This rate is 34% higher than the Latin American average (16,6%), which is one of the highest in the world, compared to Africa (14.3%) and the world (9.6%).
 
 Knowing this one may ask, what conditions in their environment are making these girls pregnant at such an early age. Is it sexual education?
