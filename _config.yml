@@ -8,14 +8,16 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Ojo al Dato                          # the main title
+title: Ojo al Dato                           # the main title
 
 tagline:   Economista especializado en negocios internacionales y finanzas en el Instituto de Tecnología de Rochester.
   Ha ocupado diversas posiciones de liderazgo dentro del sector público y privado Dominicano relacionados al análisis estadístico de grandes volúmenes de datos.
   Escribe en 3 lenguajes de programación e invierte su tiempo en iniciativas de datos abiertos y en la creación de aplicativos web.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-Página con diversos temas relacionados al análisis de la información. 
+  Economista especializado en negocios internacionales y finanzas en el Instituto de Tecnología de Rochester.
+  Ha ocupado diversas posiciones de liderazgo dentro del sector público y privado Dominicano relacionados al análisis estadístico de grandes volúmenes de datos.
+  Escribe en 3 lenguajes de programación e invierte su tiempo en iniciativas de datos abiertos y en la creación de aplicativos web.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
