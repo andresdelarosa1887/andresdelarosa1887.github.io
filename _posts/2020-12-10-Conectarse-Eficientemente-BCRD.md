@@ -1,5 +1,5 @@
 ---
-title: Conectarse Eficientemente a las Estadísticas Generadas por el Banco Central de la República Dominicana (SMDX)
+title: Conectarse Eficientemente a las Estadísticas Generadas por el Banco Central de la República Dominicana (SDMX)
 author: Andrés de la Rosa
 date: 2020-12-10 14:10:00 +0800
 categories: [Presentaciones, Tutoriales]
