@@ -3,7 +3,7 @@ title: Conectarse Eficientemente a las Estadísticas Generadas por el Banco Cent
 author: Andrés de la Rosa
 date: 2020-12-10 14:10:00 +0800
 categories: [Presentaciones, Tutoriales]
-tags: [BCRD, Compras Públicas]
+tags: [BCRD, r-programming]
 image: /assets/img/Tutoriales/lentes_programacion.jpg
 toc: true
 ---
@@ -23,16 +23,6 @@ Por otra parte, el BCRD tiene una API que pudiera ser más oportuna, pero para l
 A continuación se comparte un breve tutorial en R para acceder a los datos de cuentas nacionales utilizando el paquete readsdmx, en el caso de python se puede utilizar la libreria pandaSDMX.
 
 
-```
-## Activamos las librerías
-library(readsdmx)
-library(dplyr)
-library(ggplot2) 
-##Vamos a utilizar el primer set de datos compartidos que ##corresponde a las estadísticas de cuentas nacionales
-CuentasNacionales <-"https://cdn.bancentral.gov.do/documents/nsdp/documents/NAG_DR.xml?v=1570160392093"
-CuentasNacionales<-  readsdmx::read_sdmx(GDP)
-View(CuentasNacionales)
-```
 
 INDICATOR es la variable más importante de este set y debe ser definida cruzando con las definiciones de los indicadores provistas por el FMI. Los codelists de cada conjunto de datos se encuentra en el siguiente [link](http://dsbb.imf.org/images/excels/ECOFIN-Economic%20Indicator%20Codelist.xlsx).
 
