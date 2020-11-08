@@ -10,10 +10,11 @@ toc: true
 
 Es de conocimiento general que los economistas, financistas e incluso el público en general tienden a evaluar con cierto grado de escepticismo las proyecciones de variables macroeconómicas. Dentro de las fuentes locales comunes, se encuentran los informes económicos del Banco Central, los del Ministerio de Planificación y Economía y los de economistas independientes. Sin embargo, estos son generalmente publicados dentro de textos y formatos limitantes a la automatización de consulta y actualizaciones.
 
-Una alternativa eficiente y confiable sería utilizar los datos del Fondo Monetario Internacional que son publicados a través del World Economic Outlook (WEO) en formato SDMX en donde se encuentran proyecciones de las principales variables económicas hasta el 2025.
-Estos datos son publicados y actualizados dos veces al año. En octubre y en abril. Además, si se desean evaluar las proyecciones anteriores de las variables estudiadas se pueden consultar en este enlace.
+Una alternativa eficiente y confiable sería utilizar los datos del Fondo Monetario Internacional que son publicados a través del [World Economic Outlook](https://www.imf.org/en/Publications/SPROLLs/world-economic-outlook-databases#sort=%40imfdate%20descending) (WEO) en formato SDMX en donde se encuentran proyecciones de las principales variables económicas hasta el 2025.
 
-Este conjunto de datos está estandarizados bajo el formato SDMX y posee un listado de códigos que puede ser consultado aquí.
+Estos datos son publicados y actualizados dos veces al año. En octubre y en abril. Además, si se desean evaluar las proyecciones anteriores de las variables estudiadas se pueden consultar en este [enlace](https://www.imf.org/external/pubs/ft/weo/data/WEOhistorical.xlsx).
+
+Este conjunto de datos está estandarizados bajo el formato SDMX y posee un listado de códigos que puede ser consultado [aquí](https://www.imf.org/~/media/Files/Publications/WEO/WEO-Database/2020/02/weooct2020-sdmxdsd.ashx).
 
 Para la República Dominicana el WEO provee 31 indicadores económicos distintos para los que se tienen proyecciones al 2025.
 
