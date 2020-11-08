@@ -1,7 +1,7 @@
 ---
 title: Consultar las Proyecciones Macroeconómicas del FMI (Panorama Económico Mundial) para la República Dominicana y el Mundo
 author: Andrés de la Rosa
-date: 2020-27-10 14:10:00 +0800
+date: 2020-10-27 14:10:00 +0800
 categories: [Presentaciones, Tutoriales]
 tags: [BCRD, FMI, r-programming]
 image: /assets/img/Tutoriales/IngresosyGastos.png
