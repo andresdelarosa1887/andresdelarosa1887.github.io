@@ -1,4 +1,3 @@
-
 ---
 title: Consultar las Proyecciones Macroeconómicas del FMI (Panorama Económico Mundial) para la República Dominicana y el Mundo
 author: Andrés de la Rosa
