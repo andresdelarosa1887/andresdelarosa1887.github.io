@@ -11,7 +11,7 @@ tags: [yahoo finance api, portfolioanalytics, Rprogramming]
 En este Stock Screener se presentan los  datos en tiempo real tomados de la API Yahoo Finance provista por [RapidApi](https://rapidapi.com/apidojo/api/yahoo-finance1). Los paquetes utilizados de R para el análisis financiero y técnico incluyePortfolioAnalytics, PerformanceAnalytics, quantmod, ROI y tidyquant. Las visualizaciones interactivas se desarrollaron en [Shiny](https://shiny.rstudio.com/)
 
 
-<img src="assets/img/proyectos_financieros/ProyectosFinancieros2.png"/>
+<img src="/assets/img/proyectos_financieros/ProyectosFinancieros2.png"/>
 
 
 ## Optimización de Portafolio- Rebalanceo Trimestral- Large Tech Stocks
