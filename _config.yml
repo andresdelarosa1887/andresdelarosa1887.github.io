@@ -27,12 +27,9 @@ tagline:  Hi, I am an economist specialized in international business and financ
  languages and dedicate my time to open data initiatives and creating web applications.
 
 
-description: >- # used by seo meta and the atom feed
-    Hi, I am an economist specialized in international business and finance from the Rochester Institute of Technology,
- with a Master's degree in Information and Data Science from the University of California, Berkeley.
-  I have held various leadership positions in the public and private sectors of the Dominican Republic and Central America region,
-  where I focused on statistical analysis of large volumes of data. Additionally, I am skilled in three programming
- languages and dedicate my time to open data initiatives and creating web applications.
+description: >-                        # used by seo meta and the atom feed
+
+ 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
