@@ -1,7 +1,9 @@
+
+---
 ---
 title: Automating Your R Scripts with Docker and Cron Jobs: A Step-by-Step Guide
 author: Andrés de la Rosa
-date: 2023-04-03 14:10:00 +0800
+date: 2023-03-03 09:10:00 +0800
 categories: [Docker, Tutoral]
 tags: [BCRD, FMI, r-programming]
 image: /assets/img/automating_r_script/cloud_images.jpg
