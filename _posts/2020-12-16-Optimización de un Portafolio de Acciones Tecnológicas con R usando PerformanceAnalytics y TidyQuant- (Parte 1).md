@@ -4,7 +4,7 @@ author: Andrés de la Rosa
 date: 2023-04-03 14:10:00 +0800
 categories: [Finance, Tutoral]
 tags: [R, Financial, Tidyquant]
-image: /assets/img/automating_r_script/cloud_images.jpg
+image: /assets/img/proyectos_financieros/finance_image.jpg
 toc: true
 ---
 
