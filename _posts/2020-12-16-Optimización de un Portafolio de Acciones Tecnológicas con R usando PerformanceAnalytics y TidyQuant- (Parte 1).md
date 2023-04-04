@@ -1,5 +1,5 @@
 ---
-title: Automating Your R Scripts with Docker and Cron Jobs: A Step-by-Step Guide
+title: Optimización de un Portafolio de Acciones Tecnológicas con R usando PerformanceAnalytics y TidyQuant- (Parte 1)
 author: Andrés de la Rosa
 date: 2023-04-03 14:10:00 +0800
 categories: [Docker, Tutoral]
