@@ -1,5 +1,3 @@
-
----
 ---
 title: Automating Your R Scripts with Docker and Cron Jobs: A Step-by-Step Guide
 author: Andrés de la Rosa
