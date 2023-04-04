@@ -2,8 +2,9 @@
 title: Optimización de un Portafolio de Acciones Tecnológicas con R usando PerformanceAnalytics y TidyQuant- (Parte 1)
 author: Andrés de la Rosa
 date: 2023-04-03 14:10:00 +0800
-categories: [Docker, Tutoral]
+categories: [Finance, Tutoral]
 tags: [R, Financial, Tidyquant]
+image: /assets/img/automating_r_script/cloud_images.jpg
 toc: true
 ---
 

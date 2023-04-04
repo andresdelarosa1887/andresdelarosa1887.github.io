@@ -4,9 +4,12 @@ author: Andrés de la Rosa
 date: 2023-01-01 09:10:00 +0800
 categories: [Docker, Tutoral]
 tags: [BCRD, FMI, r-programming]
-image: /assets/img/automating_r_script/cloud_images.jpg
+image: /assets/img/proyectos_financieros/finance_image.jpg
 toc: true
 ---
+
+
+
 
 Sometimes we want automatize a script on the cloud or an on-premise server without using local task schedulers. To achieve this, lets use containers and a cron job!
 
