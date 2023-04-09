@@ -1,5 +1,5 @@
 ---
-title: Automating Your R Scripts with Docker and Cron Jobs: A Step-by-Step Guide
+title: Automating Your R Scripts with Docker and Cron Jobs. A Step-by-Step Guide
 author: Andrés de la Rosa
 date: 2023-01-01 01:10:00 +0800
 categories: [Docker, Tutoral]
