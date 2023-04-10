@@ -1,7 +1,7 @@
 ---
 title: Optimización de un Portafolio de Acciones Tecnológicas con R usando PerformanceAnalytics y TidyQuant- (Parte 1)
 author: Andrés de la Rosa
-date: 2023-04-03 14:10:00 +0800
+date: 2023-01-03 14:10:00 +0800
 categories: [Finance, Tutoral]
 tags: [R, Financial, Tidyquant]
 image: /assets/img/proyectos_financieros/finance_image.jpg
@@ -67,6 +67,11 @@ setdiff(FAANG,colnames(xtsFAANG_daily_returns))
 View(xtsFAANG_daily_returns)
 ```
 
+<img src="/assets/img/finance_in_R/stocks_return.jpg"/> 
+
+
+
+
 Para graficar los retornos individuales de las acciones FAANG, convertimos este objeto en un tibble y luego transformamos las columnas a formato largo.
 
 ```
@@ -80,6 +85,10 @@ qplot(Fecha, Return*100, data = FAANG_daily_returns, geom = "line", group = Symb
   scale_x_date(date_breaks = "30 days") +
   easy_rotate_x_labels(angle = 45, side = "right")
 ```
+
+<img src="/assets/img/finance_in_R/daily_returns_ FAANG.jpg"/> 
+
+
 
 
 ###  Creación del Portafolio FAANG
@@ -117,6 +126,8 @@ PesosFinalDelPeriodo %>%
   geom_vline(xintercept = c(seq(as.Date(fecha_inicial), Sys.Date(), by = "quarter")) , linetype="dotted",  color = "blue", size=0.3)
 ```
 
+<img src="/assets/img/finance_in_R/weights_evolution_FAANG.jpg"/> 
+
 
 
 Cada línea vertical en el gráfico representa la fecha de rebalanceo del portafolio a la alocación de pesos inicial (20% para cada acción). Esta decisión dependerá de la estrategia de inversión seleccionada alineada a objetivos de corto, mediano o largo plazo. También, el rebalanceo puede ocurrir entre diferentes instrumentos financieros.
@@ -124,7 +135,7 @@ Cada línea vertical en el gráfico representa la fecha de rebalanceo del portaf
 Existen otros objetos de la lista creada por Return.portfolio que pueden ser muy útiles para hacer un análisis profundo del portafolio como las contribuciones de cada una de las acciones al retorno general del portafolio.
 
 
-<img src="/assets/img/automating_r_script/bash_results.jpg"/> 
+
 
 
 ### Contribuciones de las Acciones al Retorno General del Portafolio
@@ -135,12 +146,14 @@ ContribucionAccion <- data.frame(FAANG_EqualWeights$contribution)
 ContribucionAccion <- tibble::rownames_to_column(ContribucionAccion, "Fecha")
 ContribucionAccion$Ano <- year(ContribucionAccion$Fecha) 
 ContribucionAccion$Trimestre <- quarter(ContribucionAccion$Fecha, with_year = TRUE)
+
 ##Obtenemos el objeto de los retornos globales del portafolio
 Retornos_FAAN_EqualWeights <- as.data.frame(FAANG_EqualWeights$returns)
 RetornosFAANG <- tibble::rownames_to_column(Retornos_FAAN_EqualWeights, "Fecha")
 ##Unimos la contribución y retornos del portafolio
 ContribucionyRetornos <- left_join( RetornosFAANG, ContribucionAccion, by="Fecha")
 ContribucionyRetornos <- gather(ContribucionyRetornos, Acciones, Pesos, -c(Fecha, Ano, Trimestre))
+
 ##Contribución Acumulada Trimestral y Grafico
 ContribucionAcumuladaTrimestral <- ContribucionyRetornos %>% filter(Acciones!='portfolio.returns') %>% group_by(Acciones, Trimestre) %>% summarise(ContribucionAcumulada= sum(Pesos))
 ggplot(ContribucionAcumuladaTrimestral, aes(fill=Acciones, y=ContribucionAcumulada*100, x=as.factor(Trimestre))) + 
@@ -149,4 +162,49 @@ ggplot(ContribucionAcumuladaTrimestral, aes(fill=Acciones, y=ContribucionAcumula
   geom_text(aes(label= paste0(round(ContribucionAcumulada*100,2), '%')), position=position_stack(0.5), size=4)
   
 ```
+
+<img src="/assets/img/finance_in_R/trimester_returns_FAANG.jpg"/> 
+
+
+```
+##Contribución Acumulada Anual y Grafico
+
+ContribucionAcumuladaAnual <- ContribucionyRetornos %>% filter(Acciones!='portfolio.returns') %>% group_by(Acciones, Ano) %>% summarise(ContribucionAcumulada= sum(Pesos))
+ggplot(ContribucionAcumuladaAnual, aes(fill=Acciones, y=ContribucionAcumulada*100, x=as.factor(Ano))) + 
+  geom_bar(position="stack", stat="identity")+ ggtitle("Retornos Anuales Acumulados dada las Contribuciones de las \n Acciones en el Portafolio FAANG-EqualWeights") +
+  labs(x= "Fecha", y="Retornos Anuales Acumulados") +
+  geom_text(aes(label= paste0(round(ContribucionAcumulada*100,2), '%')), position=position_stack(0.5))
+
+```
+
+  <img src="/assets/img/finance_in_R/annuall_returns_FAANG.jpg"/> 
+
+
+### Evaluación del Retorno General del Portafolio
+
+Finalmente, analizamos como se comporta este portafolio en en el periodo analizado y lo comparamos con el S&P 500.
+
+
+```
+##Obtenemos el objeto de retornos del portafolio, para luego ser utilizado en la comparacion
+Retornos_FAAN_EqualWeights <- FAANG_EqualWeights$returns
+colnames(Retornos_FAAN_EqualWeights) <- "FAAMG-EqualWeights"
+##Obtenemos nuestro objeto con los benchmarks obtenidos en la sección anterior para continuar con el análisis
+colnames(xtsSP500_daily_returns)[1] <- "Retornos S&P 500"
+colnames(Retornos_FAAN_EqualWeights)[1] <- "Retornos FAAMG-EqualWeights"
+benchmark_returns <- cbind(xtsSP500_daily_returns, Retornos_FAAN_EqualWeights)
+##Graficamos el Rendimiento del portafolio FAANG con el SP&500
+charts.PerformanceSummary(benchmark_returns, main= "Desempeño del SP&500 y las Acciones FAANG")
+
+```
+
+  <img src="/assets/img/finance_in_R/SP500_comparison.jpg"/> 
+
+  <img src="/assets/img/finance_in_R/metrics_comparison.jpg"/> 
+
+
+  En la próxima entrega de esta serie, veremos como optimizar un portafolio dado un grupo de restricciones y objetivos de minimización de riesgos.
+
+
+  
 
