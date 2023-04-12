@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+image: /assets/img/RICG_PANEL_3.jpeg
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+#### andresdelarosa8@gmail.com
