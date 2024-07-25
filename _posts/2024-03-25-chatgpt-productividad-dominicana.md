@@ -1,10 +1,10 @@
 ---
 title: ChatGPT y la Productividad Laboral Dominicana
 author: Andrés de la Rosa
-date: 2023-03-03 14:10:00 +0800
+date: 2024-03-03 14:10:00 +0800
 categories: [Rep. Dominicana, AI]
 tags: [AI]
-image: /assets/img/ai/a_chat_with_chat_GPT_b0720c02d3.png
+image: /assets/img/ai/a_chat_with_chat_GPT_b0720c02d3.jpg
 toc: true
 ---
 La plataforma ChatGPT ciertamente ha impactado de alguna manera los 2.2 millones de empleados formales de la República Dominicana. Ya sea un creador de contenido buscando ideas, un desarrollador de cualquier sistema buscando una solución programática, un abogado para escribir una carta, un gerente para ideas de construcción de equipo o algo tan simple como redactar un correo electrónico.
